@@ -3,7 +3,7 @@ const path = require('path')
 const hbs = require('hbs')
 const cotacoes = require('./util/cotacao')
 
-
+//hospedagem heroku: https://cotacoes-curso-nodejs.herokuapp.com/
 //conf básica
 const app = express()
 
